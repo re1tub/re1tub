@@ -13,4 +13,4 @@ I’m a Computer Engineering student interested in embedded systems, PCB design,
 - Raspberry Pi–based system projects
 - Software tools for hardware control
 
-🔗 Portfolio: (coming soon)
+🔗 Portfolio: [https://re1tub.github.io](https://re1tub.github.io)
