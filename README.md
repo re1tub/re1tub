@@ -9,8 +9,6 @@ I’m a Computer Engineering student interested in embedded systems, PCB design,
 - PCB design and electronics prototyping
 
 ### 📌 Featured Projects
-- Interactive Light Sculpture (Arduino, LED control)
-- Raspberry Pi–based system projects
-- Software tools for hardware control
+- [Interactive Light Sculpture (Arduino Uno)](https://github.com/YOURUSERNAME/arduino-light-sculpture)  
 
-🔗 Portfolio: [https://re1tub.github.io](https://re1tub.github.io/yourusername.github.io/)
+🔗 **Portfolio Website:** - [https://re1tub.github.io](https://re1tub.github.io/yourusername.github.io/)  
