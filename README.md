@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Dontae
 
-<!--
-**re1tub/re1tub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Engineering student interested in embedded systems, PCB design, and interactive hardware projects.
 
-Here are some ideas to get you started:
+### 🔧 Technical Interests
+- Embedded systems (Arduino, Raspberry Pi)
+- Hardware + software integration
+- Interactive light-based installations
+- PCB design and electronics prototyping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- Interactive Light Sculpture (Arduino, LED control)
+- Raspberry Pi–based system projects
+- Software tools for hardware control
+
+🔗 Portfolio: (coming soon)
