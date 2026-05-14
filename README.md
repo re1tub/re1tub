@@ -4,8 +4,7 @@ I’m a Computer Engineering student interested in embedded systems, PCB design,
 
 ###  Technical Interests
 - Embedded systems
-- Hardware + software integration
-- PCB design 
+- RLT Design/Verification
 
 ###  Featured Projects
 - [Interactive Light Sculpture (Arduino Uno)](https://github.com/re1tub/arduino-light-sculpture)
