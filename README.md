@@ -9,5 +9,6 @@ I’m a Computer Engineering student interested in embedded systems, PCB design,
 ###  Featured Projects
 - [Interactive Light Sculpture (Arduino Uno)](https://github.com/re1tub/arduino-light-sculpture)
 - [Interactive Smart Mirror (Raspberry Pi 4)](https://github.com/re1tub/Interactive-Smart-Mirror)
+- [Autonomou AI Design Verifcation Agent](https://github.com/re1tub/FaultClaw)
 
 🔗 **Portfolio Website:** - [https://re1tub.github.io](https://re1tub.github.io/yourusername.github.io/)  
