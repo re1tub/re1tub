@@ -19,16 +19,7 @@ Outside of Engineering, I love sports, I played basketball in high school and gr
 - [Autonomou AI Design Verifcation Agent](https://github.com/re1tub/FaultClaw)
 
 ## Currently Learning
----
+--
 - Vim
 - C/C++
-- Physics Electromagnetism 
-
-
-
-
-
-
-
-
-🔗 **LinkedIn:** - [https://www.linkedin.com/in/dontae-butler-262b19393/](https://www.linkedin.com/in/dontae-butler-262b19393/)
+- Physics Electromagnetism
