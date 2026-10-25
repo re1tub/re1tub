@@ -18,5 +18,17 @@ Outside of Engineering, I love sports, I played basketball in high school and gr
 - [Interactive Smart Mirror (Raspberry Pi 4)](https://github.com/re1tub/Interactive-Smart-Mirror)
 - [Autonomou AI Design Verifcation Agent](https://github.com/re1tub/FaultClaw)
 
-### Connect with Me
+## Currently Learning
+---
+- Vim
+- C/C++
+- Physics Electromagnetism 
+
+
+
+
+
+
+
+
 🔗 **LinkedIn:** - [https://www.linkedin.com/in/dontae-butler-262b19393/](https://www.linkedin.com/in/dontae-butler-262b19393/)
